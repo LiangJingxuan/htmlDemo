@@ -1,0 +1,4 @@
+body,div,h1,h2,h3,h4,h5,h6,p,ul,li,dl,dt,dd,span,a,em,rem,strong{margin: 0;padding: 0}
+a{text-decoration: none;}
+li{list-style: none;}
+body{font: 12px/1.5 "微软雅黑","Arial";color: #666}
